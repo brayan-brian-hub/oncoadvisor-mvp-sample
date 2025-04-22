@@ -1,0 +1,11 @@
+
+[
+  {
+    "instruction": "What is stage 3 breast cancer?",
+    "response": "Stage 3 breast cancer means the cancer has spread to nearby lymph nodes or tissue but not distant organs. It’s serious, but treatments can be very effective."
+  },
+  {
+    "instruction": "Define adenocarcinoma",
+    "response": "Adenocarcinoma is a type of cancer that forms in mucus-secreting glands throughout the body. It’s commonly found in the lungs, colon, and breast."
+  }
+]
